@@ -1,0 +1,41 @@
+body {
+    text-align: center;
+}
+header{
+    Text-align: center;
+	background: url("Images/snow.jpg") ;
+	background-size: cover;
+    padding:20px 0px 0px 0px;
+}
+body{
+    background-color: rgb(114, 139, 151);color: color;
+}
+h2 {
+    color: rgb(20, 37, 47)
+}
+h1 {
+    color: rgb(20, 37, 47)
+    
+}
+p {
+    color: rgb(53, 98, 112)
+}
+.links {
+    padding: 10px;
+    background: rgba(4, 4, 4, 0.38);
+  }
+article {
+    padding: 10px;
+    max-width: 600px;
+    margin: 0 auto;
+}
+ul {
+    padding: 10px;
+}
+li {
+    display: inline;
+    padding: 0px 10px 0px 10px;
+}
+.title {
+    font-size: ;
+}
