@@ -3,7 +3,7 @@ body {
 }
 header{
     Text-align: center;
-	background: url("Images/snow.jpg") border="5";
+	background: url("Images/snow.jpg");
 	background-size: cover;
         padding:20px 0px 0px 0px;
 }
