@@ -10,7 +10,8 @@ header{
 body{
     background-color: rgb(114, 139, 151);color: color;
 }
-h2 {
+h2{
+    font-size: 200%;
     color: rgb(53, 91, 109);
     font-family: "Comic Sans MS";
 }
